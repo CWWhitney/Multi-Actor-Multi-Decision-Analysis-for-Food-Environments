@@ -1,2 +1,3 @@
-# Multi-Actor-Multi-Decision-Analysis-for-Food-Environments
-Multi-Actor Multi-Decision Analysis for Food Environments
+# Multi-Actor Multi-Decision Analysis for Food Environments
+
+> **Archived. Retired placeholder.** This repo was started in September 2025 as a home for a multi-actor, multi-decision analysis of food environments. It never held code or data and was not developed further. Related, more developed work: [NIFAM_salad](https://github.com/CWWhitney/NIFAM_salad) (food environment baseline models; see its walk-through gist), [nifam_codas_school_garden](https://github.com/CWWhitney/nifam_codas_school_garden) and [26_i2Insights_NIFAM](https://github.com/CWWhitney/26_i2Insights_NIFAM). If the idea is taken up again, start a fresh repo.
